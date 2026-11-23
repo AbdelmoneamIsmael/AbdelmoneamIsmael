@@ -1,6 +1,9 @@
 # Abdelmoneam Ismael
 
 Flutter Developer with 4+ years of experience building and shipping Android and iOS apps. At SuperSmartSolutions, I built a Flutter app from scratch to help teams manage and monitor agricultural activities.
+🌱 I'm currently learning Python
+⚡ Fun fact: always learning
+📫 How to reach me: 01021016072 - 01501506960 - asa.abdo5@gmail.com
 
 ## Selected work
 
